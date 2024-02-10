@@ -1,6 +1,6 @@
 # Asynchronous Control Flow
 
- - [ ]  Returning Information from a Function
+ - [ ]  "Returning" Information from a Function
  - [ ]  Synchronous code
  - [ ]  Asynchronous code
  - [ ]  `setTimeout` and `setInterval` functions
