@@ -1,4 +1,3 @@
-
 console.log("01: Start of the code");
 
 const doStuff = function() {
