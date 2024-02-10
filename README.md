@@ -6,7 +6,7 @@
  - [ ]  Filesystem functions
  - [ ]  Closures (Time permitting) ***
 
-JavaScript Single Threaded / non-pre-emptive
+JavaScript Single Threaded / Non-Preemptive
 
 * Rule #1: Async callbacks always wait until JavbaScript is not busy
 * Rule #2: We don't usually return anything from async functions
